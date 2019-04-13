@@ -19,6 +19,6 @@ Next, install the application dependencies.
 	
 Finally, run the node server locally.
 
-	node server
+	node start
 	
 Now, open the local application on port 8080 at the URL: `http://localhost:8080/`.
